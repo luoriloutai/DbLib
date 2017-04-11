@@ -1,0 +1,11 @@
+F:\Projects\Works\GShine\GShine.Test\obj\Debug\GShine.Test.csprojResolveAssemblyReference.cache
+F:\Projects\Works\GShine\GShine.Test\obj\Debug\GShine.Test.Form1.resources
+F:\Projects\Works\GShine\GShine.Test\obj\Debug\GShine.Test.Properties.Resources.resources
+F:\Projects\Works\GShine\GShine.Test\obj\Debug\GShine.Test.csproj.GenerateResource.Cache
+F:\Projects\Works\GShine\GShine.Test\bin\Debug\GShine.Test.exe.config
+F:\Projects\Works\GShine\GShine.Test\bin\Debug\GShine.Test.exe
+F:\Projects\Works\GShine\GShine.Test\bin\Debug\GShine.Test.pdb
+F:\Projects\Works\GShine\GShine.Test\bin\Debug\GShine.Data.dll
+F:\Projects\Works\GShine\GShine.Test\bin\Debug\GShine.Data.pdb
+F:\Projects\Works\GShine\GShine.Test\obj\Debug\GShine.Test.exe
+F:\Projects\Works\GShine\GShine.Test\obj\Debug\GShine.Test.pdb

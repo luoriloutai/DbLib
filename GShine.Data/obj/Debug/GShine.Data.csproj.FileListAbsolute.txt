@@ -1,0 +1,5 @@
+F:\Projects\Works\GShine\GShine.Data\obj\Debug\GShine.Data.csprojResolveAssemblyReference.cache
+F:\Projects\Works\GShine\GShine.Data\bin\Debug\GShine.Data.dll
+F:\Projects\Works\GShine\GShine.Data\bin\Debug\GShine.Data.pdb
+F:\Projects\Works\GShine\GShine.Data\obj\Debug\GShine.Data.dll
+F:\Projects\Works\GShine\GShine.Data\obj\Debug\GShine.Data.pdb
